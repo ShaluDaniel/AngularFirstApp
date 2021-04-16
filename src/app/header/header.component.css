@@ -1,0 +1,20 @@
+.card-header.myHeader{
+    
+    padding: 5%;
+    background-color: rgb(27, 14, 2);
+    height: px;
+    padding: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+a{
+    margin-top: 50px;
+    margin-left: 50px;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    
+}
