@@ -1,0 +1,31 @@
+#loginform{
+    border:solid 2px #223344;
+    padding: 7%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    }
+    #bookadd{
+      text-align: center;
+    }
+    .button{
+      
+      margin: 5%;
+      text-align: center;
+      padding:2%;
+      margin-left: 45%;
+      margin-right: 45%;
+      
+      
+    }
+    .addform{
+      border:solid 2px #223344;
+    padding: 7%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    
+    }
+    
